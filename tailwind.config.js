@@ -18,7 +18,11 @@ module.exports = {
     fontFamily: {
       'quicksand': ['Quicksand', 'sans-serif']
     },
-    extend: {},
+    extend: {
+      backgroundImage: theme => ({
+        'main-bg': "url('../Phone.png')",
+      })
+    }
   },
   variants: {
     extend: {},
