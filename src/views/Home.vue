@@ -1,18 +1,15 @@
 <template>
-  <div class="home">
-    <div class="bg-yellow-400 text-4xl font-quicksand sm:text-sm">This element was styled with Tailwind, and the font is from Google Fonts</div>
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-  </div>
+  <SideBar msg="Welcome to Your Vue.js App" />
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
+import SideBar from "@/components/SideBar.vue";
 
 export default {
-  name: "Home",
+  name: "Side",
   components: {
-    HelloWorld
+    SideBar
   }
 };
 </script>
