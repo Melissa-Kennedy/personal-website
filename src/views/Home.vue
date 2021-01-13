@@ -7,6 +7,7 @@
       <Navbar />
       <HomePage />
       <About class="z-10" />
+      <Education class="z-10" />
     </div>
   </div>
 </template>
@@ -17,6 +18,7 @@ import SideBar from "@/components/SideBar.vue";
 import HomePage from "@/components/HomePage.vue";
 import Navbar from "@/components/Navbar.vue";
 import About from "@/components/About.vue";
+import Education from "@/components/Education.vue";
 
 export default {
   name: "Home",
@@ -24,7 +26,8 @@ export default {
     SideBar,
     HomePage,
     Navbar,
-    About
+    About,
+    Education
   }
 };
 </script>
