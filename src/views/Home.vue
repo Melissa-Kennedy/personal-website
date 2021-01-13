@@ -9,6 +9,7 @@
       <About class="z-10" />
       <Education class="z-10" />
       <Experience class="z-10" />
+      <Projects class="z-10" />
     </div>
   </div>
 </template>
@@ -21,7 +22,7 @@ import Navbar from "@/components/Navbar.vue";
 import About from "@/components/About.vue";
 import Education from "@/components/Education.vue";
 import Experience from "@/components/Experience.vue";
-
+import Projects from "@/components/Projects.vue";
 export default {
   name: "Home",
   components: {
@@ -30,7 +31,8 @@ export default {
     Navbar,
     About,
     Education,
-    Experience
+    Experience,
+    Projects
   }
 };
 </script>
