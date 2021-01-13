@@ -1,5 +1,5 @@
 <template>
-  <div class="relative">
+  <div class="relative w-full h-screen">
     <div class="bg-main-bg bg-no-repeat bg-contain absolute top-0 left-0 w-full h-screen">
       <div class="p-16 grid grid-rows-2 grid-cols-3">
         <div>
