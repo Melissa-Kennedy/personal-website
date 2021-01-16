@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="projects">
     <br />
     <h1>Projects</h1>
     <h2>Pantry</h2>

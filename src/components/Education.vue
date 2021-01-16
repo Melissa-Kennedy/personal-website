@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="education">
     <h1>Education</h1>
     <h2>Univeristy of Guelph</h2>
     <span>
