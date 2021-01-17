@@ -16,7 +16,9 @@ module.exports = {
       // => @media (max-width: 639px) { ... }
     },
     fontFamily: {
-      'quicksand': ['Quicksand', 'sans-serif']
+      'quicksand': ['Quicksand', 'sans-serif'],
+      'header': ['Poppins', 'sans-serif'],
+      'text': ['Raleway', 'sans-serif'],
     },
     extend: {
       backgroundImage: theme => ({
@@ -27,11 +29,17 @@ module.exports = {
           DEFAULT: '#121b41'
         },
         'site-sec': {
-          DEFAULT: '#9a9dd5'
+          DEFAULT: '#aeb4c8'
         },
         'site-third': {
           DEFAULT: '#f4f4f4'
         }
+      },
+      transitionProperty: {
+
+        'height': 'height',
+
+        'width': 'width',
       }
     }
   },

@@ -2,7 +2,7 @@
   <div class="bg-main-bg relative bg-cover w-full h-screen">
     <div class="flex flex-col absolute top-0 left-0 w-full h-screen">
       <div class="my-auto h-64 p-12 text-white">
-        <h1 class="text-8xl">Melissa Kennedy</h1>
+        <h1 class="text-8xl font-header">Melissa Kennedy</h1>
         <p class="text-2xl my-4">Software Developer • Toronto, Ontario</p>
         <div class="space-x-8 text-3xl">
           <a
