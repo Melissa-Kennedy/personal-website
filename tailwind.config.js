@@ -20,7 +20,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: theme => ({
-        'main-bg': "url('../Phone.png')",
+        'main-bg': "url('../blue.png')",
       })
     }
   },

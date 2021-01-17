@@ -3,7 +3,8 @@
     <h1>Education</h1>
     <h2>Univeristy of Guelph</h2>
     <span>
-      <i>Bachelor Of Science | September 2016- April 2021</i>
+      <i>Bachelor Of Science</i>
+      | September 2016- April 2021
       <br />• BSc Mathematical Science
       <br />• Statistics Stream
       <br />•Computer Science Emphasis

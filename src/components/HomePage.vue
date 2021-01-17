@@ -1,6 +1,6 @@
 <template>
-  <div class="relative w-full h-screen">
-    <div class="bg-main-bg bg-no-repeat bg-contain absolute top-0 left-0 w-full h-screen">
+  <div class="bg-main-bg relative bg-cover w-full h-screen">
+    <div class="absolute top-0 left-0 w-full h-screen">
       <div class="p-16 grid grid-rows-2 grid-cols-3">
         <div>
           <img class="rounded-full" src="@/assets/melissa.jpg" alt="Headshot" />
@@ -11,6 +11,9 @@
         </div>
       </div>
     </div>
+    <div class="w-1/2 h-screen absolute right-0">
+      <ParticlesJS />
+    </div>
   </div>
 </template>
 
@@ -19,4 +22,11 @@ export default {
   name: "HomePage"
 };
 </script>
+
+
+
+
+
+
+
 

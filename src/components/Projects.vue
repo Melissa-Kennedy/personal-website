@@ -2,10 +2,12 @@
   <div id="projects">
     <br />
     <h1>Projects</h1>
+    <br />
     <h2>Pantry</h2>
     <span>
       <br />• Recipe app using vue.js, django rest frame work, and postgres
     </span>
+
     <h2>Namaste</h2>
     <span>
       <br />• Yoga sequence builder using vue.js and Django
