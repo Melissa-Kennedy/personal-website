@@ -1,18 +1,36 @@
 <template>
   <div class="bg-main-bg relative bg-cover w-full h-screen">
-    <div class="absolute top-0 left-0 w-full h-screen">
-      <div class="p-16 grid grid-rows-2 grid-cols-3">
-        <div>
-          <img class="rounded-full" src="@/assets/melissa.jpg" alt="Headshot" />
-        </div>
-        <div class="col-start-2 col-span-2 row-start-2 p-8">
-          <h1>Melissa Kennedy</h1>
-          <p>Software Developer • Toronto, Ontario</p>
+    <div class="flex flex-col absolute top-0 left-0 w-full h-screen">
+      <div class="my-auto h-64 p-12 text-white">
+        <h1 class="text-8xl">Melissa Kennedy</h1>
+        <p class="text-2xl my-4">Software Developer • Toronto, Ontario</p>
+        <div class="space-x-8 text-3xl">
+          <a
+            href="tel:14169932329"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+          >
+            <i class="fas fa-phone"></i>
+          </a>
+          <a
+            href="mailto:melissa.4.kennedy@gmail.com"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+          >
+            <i class="fas fa-envelope"></i>
+          </a>
+          <a
+            href="https://github.com/Melissa-Kennedy"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+          >
+            <i class="fab fa-github"></i>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/melissajkennedy/"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+          >
+            <i class="fab fa-linkedin"></i>
+          </a>
         </div>
       </div>
-    </div>
-    <div class="w-1/2 h-screen absolute right-0">
-      <ParticlesJS />
     </div>
   </div>
 </template>
@@ -22,10 +40,6 @@ export default {
   name: "HomePage"
 };
 </script>
-
-
-
-
 
 
 
