@@ -2,20 +2,46 @@
   <div id="projects" class="bg-site-third p-8">
     <h1 class="font-header text-3xl">Projects</h1>
 
-    <h2 class="font-semibold mt-4">Pantry</h2>
-    <span>• Recipe app using vue.js, django rest frame work, and postgres</span>
+    <div class="flex mt-4">
+      <div class="w-1/3 mr-2 shadow-xl">
+        <img src="../assets/pantry.png" />
+      </div>
+      <div class="w-2/3">
+        <h2 class="font-semibold text-xl">Pantry</h2>
+        <p>• Recipe app using Vue.js, Django/Django Rest Framework, and Postgres</p>
+      </div>
+    </div>
 
-    <h2 class="font-semibold mt-4">MelissaKennedy.ca</h2>
-    <span>• Personal webstie built using Vue.js and Tailwind</span>
+    <div class="flex mt-4">
+      <div class="w-1/3 mr-2 shadow-xl">
+        <img alt="website" />
+      </div>
+      <div class="w-2/3">
+        <h2 class="font-semibold text-xl">MelissaKennedy.ca</h2>
+        <p>• Personal webstie built using Vue.js and Tailwind</p>
+      </div>
+    </div>
 
-    <h2 class="font-semibold mt-4">Namaste</h2>
-    <span>
-      • Yoga sequence builder using vue.js and Django
-      • Submitted to the 2020 winter Hacklympics with partner
-    </span>
+    <div class="flex mt-4">
+      <div class="w-1/3 mr-2 shadow-xl">
+        <img src="../assets/namaste.jpg" />
+      </div>
+      <div class="w-2/3">
+        <h2 class="font-semibold text-xl">Namaste</h2>
+        <p>• Yoga sequence builder using vue.js and Django</p>
+        <p>• Submitted to the 2020 winter Hacklympics with partner</p>
+      </div>
+    </div>
 
-    <h2 class="font-semibold mt-4">Hacktober Fest</h2>
-    <span>• Contributed to 4 pull requests on Github</span>
+    <div class="flex mt-4">
+      <div class="w-1/3 mr-2 shadow-xl">
+        <img src="../assets/hacktoberfest.png" />
+      </div>
+      <div class="w-2/3">
+        <h2 class="font-semibold text-xl">HacktoberFest</h2>
+        <p>• Contributed to 4 pull requests on Github</p>
+      </div>
+    </div>
   </div>
 </template>
 
