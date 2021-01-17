@@ -21,7 +21,18 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
         'main-bg': "url('../blue.png')",
-      })
+      }),
+      colors: {
+        'site-main': {
+          DEFAULT: '#121b41'
+        },
+        'site-sec': {
+          DEFAULT: '#9a9dd5'
+        },
+        'site-third': {
+          DEFAULT: '#f4f4f4'
+        }
+      }
     }
   },
   variants: {
