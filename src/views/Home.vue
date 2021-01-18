@@ -4,12 +4,7 @@
       class="w-0 bg-site-main transition-width duration-500 ease-in-out"
       :class="{ 'w-1/4': show_menu }"
     >
-      <div
-        class="opacity-0 transition-opacity delay-200 duration-500 ease-in-out"
-        :class="{ 'opacity-100': show_menu }"
-      >
-        <SideBar :show_menu="show_menu" />
-      </div>
+      <SideBar :show_menu="show_menu" />
     </div>
     <div class="w-full flex flex-col">
       <Navbar class="z-20" />

@@ -1,5 +1,5 @@
 <template>
-  <div id="experience" class="bg-site-third p-8">
+  <div id="experience" class="bg-site-third p-8 pr-72">
     <h1 class="font-header text-3xl">Experience</h1>
 
     <h2 class="font-semibold text-xl mt-4">Wiz Kid Coding</h2>
@@ -9,8 +9,8 @@
       </p>
       <div class="mt-2">
         <p>• Taught lessons in Lua, Python, and Scratch</p>
-        <p>• Planned curriculum and lessons</p>
-        <p>• Taught kids aged between 6-12</p>
+        <p>• Planned curriculums centred around fundamentals of programming and game design</p>
+        <p>• Adapted classes to be inculsive of all age groups</p>
       </div>
     </div>
 
@@ -34,7 +34,6 @@
       <div class="mt-2">
         <p>• Provided quick and accurate service to customers</p>
         <p>• General cashier duties involving handling money, making change and ensuring proper accountability for payments</p>
-        <p>• Taught kids aged between 6-12</p>
       </div>
     </div>
   </div>

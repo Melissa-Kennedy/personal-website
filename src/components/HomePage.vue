@@ -7,25 +7,25 @@
         <div class="space-x-8 text-3xl">
           <a
             href="tel:14169932329"
-            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-site-accent"
           >
             <i class="fas fa-phone"></i>
           </a>
           <a
             href="mailto:melissa.4.kennedy@gmail.com"
-            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-site-accent"
           >
             <i class="fas fa-envelope"></i>
           </a>
           <a
             href="https://github.com/Melissa-Kennedy"
-            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-site-accent"
           >
             <i class="fab fa-github"></i>
           </a>
           <a
             href="https://www.linkedin.com/in/melissajkennedy/"
-            class="cursor-pointer transition duration-800 ease-in-out hover:text-blue-600"
+            class="cursor-pointer transition duration-800 ease-in-out hover:text-site-accent"
           >
             <i class="fab fa-linkedin"></i>
           </a>

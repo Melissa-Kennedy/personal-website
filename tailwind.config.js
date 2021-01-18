@@ -33,6 +33,9 @@ module.exports = {
         },
         'site-third': {
           DEFAULT: '#f4f4f4'
+        },
+        'site-accent': {
+          DEFAULT: '#9a9dd5'
         }
       },
       transitionProperty: {
