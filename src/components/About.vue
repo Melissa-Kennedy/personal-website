@@ -1,8 +1,8 @@
 <template>
-  <div id="about" class="bg-site-third p-8 pr-72">
+  <div id="about" class="bg-site-third p-8 pr-72 md:pr-8">
     <h1 class="font-header text-3xl">About Me</h1>
-    <div class="flex mt-4">
-      <div class="w-1/6 mr-6">
+    <div class="flex mt-4 md:flex-col">
+      <div class="w-1/6 mr-6 md:w-1/2 md:mx-auto md:mb-6">
         <img class="rounded-full" src="@/assets/melissa.jpg" />
       </div>
       <div class="w-5/6">

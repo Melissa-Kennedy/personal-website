@@ -1,7 +1,7 @@
 <template>
   <div class="flex font-text bg-site-main">
     <div
-      class="w-0 bg-site-main transition-width duration-500 ease-in-out"
+      class="w-0 bg-site-main transition-width duration-500 ease-in-out md:w-0"
       :class="{ 'w-1/4': show_menu }"
     >
       <SideBar :show_menu="show_menu" />

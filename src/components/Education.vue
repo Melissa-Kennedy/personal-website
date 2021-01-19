@@ -1,5 +1,5 @@
 <template>
-  <div id="education" class="bg-site-third p-8 pr-72">
+  <div id="education" class="bg-site-third p-8 pr-72 md:pr-8">
     <h1 class="font-header text-3xl">Education</h1>
     <h2 class="font-semibold text-xl mt-4">Univeristy of Guelph</h2>
     <div>

@@ -1,12 +1,12 @@
 <template>
-  <div id="projects" class="bg-site-third p-8 pr-72">
+  <div id="projects" class="bg-site-third p-8 pr-72 md:pr-8">
     <h1 class="font-header text-3xl">Projects</h1>
 
-    <div class="flex mt-4">
-      <div class="w-1/2 mr-6 shadow-xl">
+    <div class="flex mt-4 md:flex-col md:mb-6">
+      <div class="w-1/2 mr-6 shadow-xl md:w-full md:mb-4">
         <img src="../assets/pantry.png" />
       </div>
-      <div class="w-1/2">
+      <div class="w-1/2 md:w-full">
         <div class="flex justify-between">
           <h2 class="font-semibold text-xl">Pantry</h2>
           <div class="flex">
@@ -26,11 +26,11 @@
       </div>
     </div>
 
-    <div class="flex mt-4">
-      <div class="w-1/2 mr-6 shadow-xl">
+    <div class="flex mt-4 md:flex-col md:mb-6">
+      <div class="w-1/2 mr-6 shadow-xl md:w-full md:mb-4">
         <img src="../assets/website.png" />
       </div>
-      <div class="w-1/2">
+      <div class="w-1/2 md:w-full">
         <div class="flex justify-between">
           <h2 class="font-semibold text-xl">MelissaKennedy.ca</h2>
           <div class="flex">
@@ -49,11 +49,11 @@
       </div>
     </div>
 
-    <div class="flex mt-4">
-      <div class="w-1/2 mr-6 shadow-xl">
+    <div class="flex mt-4 md:flex-col md:mb-6">
+      <div class="w-1/2 mr-6 shadow-xl md:w-full md:mb-4">
         <img src="../assets/namaste.jpg" />
       </div>
-      <div class="w-1/2">
+      <div class="w-1/2 md:w-full">
         <div class="flex justify-between">
           <h2 class="font-semibold text-xl">Namaste</h2>
           <div class="flex">
@@ -74,11 +74,11 @@
       </div>
     </div>
 
-    <div class="flex mt-4">
-      <div class="w-1/3 mr-2 shadow-xl">
+    <div class="flex mt-4 md:flex-col">
+      <div class="w-1/2 mr-2 shadow-xl md:w-full md:mb-4">
         <img src="../assets/hacktoberfest.png" />
       </div>
-      <div class="w-2/3">
+      <div class="w-1/2 md:w-full">
         <h2 class="font-semibold text-xl">HacktoberFest</h2>
         <p>• Contributed to 4 pull requests on Github</p>
       </div>

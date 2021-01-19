@@ -1,5 +1,5 @@
 <template>
-  <div class="relative text-white text-xl font-header">
+  <div class="relative text-white text-xl font-header md:text-lg">
     <div class="absolute top-0 right-0 left-0 w-full">
       <div class="flex justify-around">
         <h1 class="transform transition duration-300 ease-in-out hover:scale-110">
