@@ -2,7 +2,7 @@
   <div class="relative text-white">
     <div class="flex fixed left-0 w-1/5">
       <div
-        class="flex flex-wrap h-screen content-between p-5 text-3xl opacity-0 transition-opacity delay-200 duration-500 ease-in-out"
+        class="flex flex-wrap h-screen mr-6 content-between p-5 text-3xl opacity-0 transition-opacity delay-200 duration-500 ease-in-out"
         :class="{ 'opacity-100': show_menu }"
       >
         <div class="space-y-6">
