@@ -1,53 +1,52 @@
 // tailwind.config.js
 module.exports = {
-  purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     screens: {
-      '2xl': { 'max': '1535px' },
+      "2xl": { max: "1535px" },
       // => @media (max-width: 1535px) { ... }
-      'xl': { 'max': '1279px' },
+      xl: { max: "1279px" },
       // => @media (max-width: 1279px) { ... }
-      'lg': { 'max': '1023px' },
+      lg: { max: "1023px" },
       // => @media (max-width: 1023px) { ... }
-      'md': { 'max': '767px' },
+      md: { max: "767px" },
       // => @media (max-width: 767px) { ... }
-      'sm': { 'max': '639px' },
+      sm: { max: "639px" }
       // => @media (max-width: 639px) { ... }
     },
     fontFamily: {
-      'quicksand': ['Quicksand', 'sans-serif'],
-      'header': ['Poppins', 'sans-serif'],
-      'text': ['Raleway', 'sans-serif'],
+      quicksand: ["Quicksand", "sans-serif"],
+      header: ["Poppins", "sans-serif"],
+      text: ["Raleway", "sans-serif"]
     },
     extend: {
       backgroundImage: theme => ({
-        'main-bg': "url('../blue.png')",
+        "main-bg": "url('../blue.png')"
       }),
       colors: {
-        'site-main': {
-          DEFAULT: '#121b41'
+        "site-main": {
+          DEFAULT: "#121b41"
         },
-        'site-sec': {
-          DEFAULT: '#aeb4c8'
+        "site-sec": {
+          DEFAULT: "#aeb4c8"
         },
-        'site-third': {
-          DEFAULT: '#f4f4f4'
+        "site-third": {
+          DEFAULT: "#f4f4f4"
         },
-        'site-accent': {
-          DEFAULT: '#9a9dd5'
+        "site-accent": {
+          DEFAULT: "#9a9dd5"
         }
       },
       transitionProperty: {
+        height: "height",
 
-        'height': 'height',
-
-        'width': 'width',
+        width: "width"
       }
     }
   },
   variants: {
-    extend: {},
+    extend: {}
   },
-  plugins: [],
-}
+  plugins: []
+};

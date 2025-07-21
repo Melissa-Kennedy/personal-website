@@ -3,8 +3,8 @@ import App from "./App.vue";
 import router from "./router";
 
 import "./assets/css/tailwind.css";
-import "./assets/css/fonts.css"
-import "./assets/css/icons.css"
+import "./assets/css/fonts.css";
+import "./assets/css/icons.css";
 
 Vue.config.productionTip = false;
 

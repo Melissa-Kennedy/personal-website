@@ -4,14 +4,18 @@
     <h2 class="font-semibold text-xl mt-4">Univeristy of Guelph</h2>
     <div>
       <p class="text-lg">
-        <span class="italic">Bachelor Of Science, Honours</span> | September 2016- April 2021
+        <span class="italic">Bachelor Of Science, Honours</span> | September
+        2016- April 2021
       </p>
 
       <div class="mt-2">
         <p>• BSc Mathematical Science, Honours</p>
         <p>• Computer Science Emphasis</p>
         <p>• Statistics Stream</p>
-        <p>• Guelph Women in Computer Science (GWICS) – support and engage in the community of women in computer science</p>
+        <p>
+          • Guelph Women in Computer Science (GWICS) – support and engage in the
+          community of women in computer science
+        </p>
       </div>
     </div>
   </div>
@@ -22,4 +26,3 @@ export default {
   name: "Education"
 };
 </script>
-
