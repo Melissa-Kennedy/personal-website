@@ -5,38 +5,29 @@
     <h2 class="font-semibold text-xl mt-4">Wiz Kid Coding</h2>
     <div>
       <p class="text-lg">
-        <span class="italic">Coding Instructor</span> | Sept 2020 - Current
+        <span class="italic">Recursion Pharmaceuticals</span> | June 2023 - June 2025
       </p>
       <div class="mt-2">
-        <p>• Taught lessons in Lua, Python, and Scratch</p>
-        <p>• Planned curriculum centred around fundamentals of programming and game design</p>
-        <p>• Adapted classes to be inclusive of all age groups</p>
+        <p>• Designed and implemented an event-driven data pipeline using Google Cloud tools (Cloud Run, Looker, Cloud Storage) to support the building of robust data products within the DataLake, enabling data visualization for scientists and powering ML model training for data scientists.</p>
+        <p>• Developed cross-functional ETL processes to transfer over 100 million data points.</p>
+        <p>• Created and maintained a React application, modernizing a legacy codebase that previously relied on jQuery, improving performance, scalability, and developer experience.</p>
+        <p>• On-boarded and mentored interns, providing guidance and support throughout their projects.</p>
       </div>
     </div>
 
-    <h2 class="font-semibold text-xl mt-4">STEM Camp</h2>
+    <h2 class="font-semibold text-xl mt-4">Cyclica</h2>
     <div>
       <p class="text-lg">
-        <span class="italic">Camp Counselor</span> | June 2019 - September 2019
+        <span class="italic">Software Engineer</span> | 2021 - 2023
       </p>
       <div class="mt-2">
-        <p>• Lead lessons in computer science, mathematics and science</p>
-        <p>• Taught groups of 40 children aged 5-13 years</p>
-        <p>• Adapted lessons to fit different levels of learning</p>
+        <p>• Maintained, improved, and implemented new features across the full technology stack, including RESTful APIs, CI/CD pipelines, UI components, and Docker images.</p>
+        <p>• Proposed and implemented a test suite with CI integration for a legacy frontend application, enabling the development team to ship features with greater confidence and stability.</p>
+        <p>• Led monthly QA sessions to ensure quality and performance standards.</p>
+        <p>• Managed the on-boarding process for co-op students, providing training and support.</p>
       </div>
     </div>
 
-    <h2 class="font-semibold text-xl mt-4">Longos</h2>
-    <div>
-      <p class="text-lg">
-        <span class="italic">Cashier</span> | February 2015-2019
-      </p>
-      <div class="mt-2">
-        <p>• Provided quick and accurate service to customers</p>
-        <p>• General cashier duties involving handling money, making change and ensuring proper accountability for payments</p>
-      </div>
-    </div>
-  </div>
 </template>
 
 <script>

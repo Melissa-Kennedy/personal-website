@@ -6,7 +6,7 @@
         <img class="rounded-full" src="@/assets/melissa.jpg" />
       </div>
       <div class="w-5/6">
-        <p>A 2021 math and computer science graduate from the University of Guelph who welcomes problem solving along with challenges in programming and has a dedication for emerging technology. 7 years programming experience, working primarily in C and Python with experience in Java, Javascript, Lua and SQL. I hope to use my quick problem solving skills, deterministic work effort and skills gained as a computer science and math student to become a valuable member of your team.</p>
+        <p>Experienced software engineer with a strong background in full- stack development. Skilled in implementing and improving complex technology stacks, including RESTful APIs, CI/CD pipelines, and ETL processes handling large-scale data. Proven ability to lead QA initiatives, mentor interns, and manage on- boarding processes. Passionate about driving innovation and enhancing software functionality to meet business needs..</p>
       </div>
     </div>
   </div>
