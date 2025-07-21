@@ -22,7 +22,10 @@
             <i class="my-icons tailwindcss"></i>
           </div>
         </div>
-        <p>• Recipe app using Vue.js, Django/Django Rest Framework, Tailwind, and Postgres</p>
+        <p>
+          • Recipe app using Vue.js, Django/Django Rest Framework, Tailwind, and
+          Postgres
+        </p>
       </div>
     </div>
 
@@ -91,4 +94,3 @@ export default {
   name: "Projects"
 };
 </script>
-
