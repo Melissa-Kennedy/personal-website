@@ -6,7 +6,7 @@
         <img class="rounded-full" src="@/assets/melissa.jpg" />
       </div>
       <div class="w-5/6">
-        <p>Experienced software engineer with a strong background in full- stack development. Skilled in implementing and improving complex technology stacks, including RESTful APIs, CI/CD pipelines, and ETL processes handling large-scale data. Proven ability to lead QA initiatives, mentor interns, and manage on- boarding processes. Passionate about driving innovation and enhancing software functionality to meet business needs..</p>
+        <p>Experienced software engineer with a strong background in full- stack development. Skilled in implementing and improving complex technology stacks, including RESTful APIs, CI/CD pipelines, and ETL processes handling large-scale data. Proven ability to lead QA initiatives, mentor interns, and manage on-boarding processes. Passionate about driving innovation and enhancing software functionality to meet business needs.</p>
       </div>
     </div>
   </div>
